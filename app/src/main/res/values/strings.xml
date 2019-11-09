@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleToDoApp</string>
+    <string name="edit_activity_text_view">Update the item</string>
+    <string name="edit_activity_btn">Update</string>
 </resources>
